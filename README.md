@@ -46,3 +46,7 @@ Apriori didapatkan dari perhitungan yang menghasilkan angka support dan confiden
 # 5. A/B Testing untuk menentukan UI yang lebih baik
 
 Pada penggunaan kali ini, kasus yang ada adalah bagaimana mengukur apakah UI yang baru bisa menggantikan UI yang lama berdasarkan banyaknya user yang me-klik tombol sehingga melanjutkan untuk mengeksplor lebih dalam lagi websitenya lalu dihitung P-Value-nya. Hipotesisnya adalah:
+
+Pada penggunaan kali ini, kasus yang ada adalah bagaimana mengukur apakah UI yang baru bisa menggantikan UI yang lama berdasarkan banyaknya user yang me-klik tombol sehingga melanjutkan untuk mengeksplor lebih dalam lagi websitenya lalu dihitung P-Value-nya. Hipotesisnya adalah:
+H0 : Pengguna UI A lebih banyak me-klik tombol dibanding pengguna UI B
+H1 : Pengguna UI A tidak lebih banyak me-klik tombol dibanding pengguna UI B
