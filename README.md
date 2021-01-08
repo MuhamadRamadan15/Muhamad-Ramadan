@@ -1,5 +1,10 @@
 # Muhamad-Ramadan
-collaborative filtering
+project collaborative filtering
+
+Nama  : Muhamad Ramadan           Matkul : Sistem Penunjang Keputusan
+NIM   : 171011400449              Shift  : B
+Kelas : 07TPLM004
+
 # Recommendation-System-Algorithms
 Dalam repo ini, terdapat algoritma sebagai berikut:
 
