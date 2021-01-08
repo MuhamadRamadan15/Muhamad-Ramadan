@@ -3,11 +3,12 @@ collaborative filtering
 # Recommendation-System-Algorithms
 Dalam repo ini, terdapat algoritma sebagai berikut:
 
-Rekomendasi berdasarkan konten (Content based)
-Rekomendasi berdasarkan user (Collaborative filtering)
-Rekomendasi Hybrid (berdasarkan user & konten)
-Asosiasi menggunakan algoritma Apriori
-A/B Testing untuk menentukan UI yang lebih baik
+1. Rekomendasi berdasarkan konten (Content based)
+2. Rekomendasi berdasarkan user (Collaborative filtering)
+3. Rekomendasi Hybrid (berdasarkan user & konten)
+4. Asosiasi menggunakan algoritma Apriori
+5. A/B Testing untuk menentukan UI yang lebih baik
+
 Menjalankan program diatas menggunakan file "main.py", commandnya seperti dibawah,
 Command untuk menjalankan
 
