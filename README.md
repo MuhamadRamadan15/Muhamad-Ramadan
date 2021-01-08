@@ -27,6 +27,10 @@ Dalam repository ini, kita memiliki beberapa metode yang kita coba aplikasikan p
 
 # 1. Rekomendasi berdasarkan konten (Content based)
 
+Pada algoritma ini, rekomendasi dititik beratkan pada karakteristik konten yang ada. Algoritma ini menggunakan data film untuk diolah, yang berisi jenis, genre, rating, dan durasi. Pada tahapan ini dilakukan normalisasi dahulu terhadap data yang ada, lalu dilakukan perhitungan cosine similarity untuk menghitung kesamaan antar kontennya. Hasilnya sebagai berikut
+
+![gambar3](image/result_hybrid.png)
+
 # 2. Rekomendasi berdasarkan user (Collaborative filtering)
 
 # 3. Rekomendasi Hybrid (berdasarkan user & konten)
