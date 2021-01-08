@@ -24,3 +24,5 @@ Dari command tersebut, menghasilkan keluaran seperti pada berikut,
 
 
 Dalam repository ini, kita memiliki beberapa metode yang kita coba aplikasikan pada data yang berbeda pula. kita akan coba bahas satu persatu.
+
+# 1. Rekomendasi berdasarkan konten (Content based)
