@@ -22,5 +22,5 @@ Dari command tersebut, menghasilkan keluaran seperti pada berikut,
 
 ![gambar2](image/result_program.png)
 
-Keluaran program
+
 Dalam repository ini, kita memiliki beberapa metode yang kita coba aplikasikan pada data yang berbeda pula. kita akan coba bahas satu persatu.
