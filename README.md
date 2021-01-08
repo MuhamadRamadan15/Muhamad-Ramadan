@@ -15,7 +15,7 @@ Dalam repo ini, terdapat algoritma sebagai berikut:
 
 
 Menjalankan program diatas menggunakan file "main.py", commandnya seperti dibawah,
-Command untuk menjalankan
+![gambar1](image/command.png)
 
 Dari command tersebut, menghasilkan keluaran seperti pada berikut, Keluaran program
 Dalam repository ini, kita memiliki beberapa metode yang kita coba aplikasikan pada data yang berbeda pula. kita akan coba bahas satu persatu.
