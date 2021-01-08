@@ -1,13 +1,13 @@
 # Muhamad-Ramadan
 **PROJECT COLLABORATIVE FILTERING**
 
-**Nama  : Muhamad Ramadan**        
+**_Nama  : Muhamad Ramadan_**        
 
-**NIM   : 171011400449**        
+**_NIM   : 171011400449_**        
 
-**Kelas : 07TPLM004**
+**_Kelas : 07TPLM004_**
 
-**Matkul : Sistem Penunjang Keputusan**
+**_Matkul : Sistem Penunjang Keputusan_**
 
 # Recommendation-System-Algorithms
 Dalam repo ini, terdapat algoritma sebagai berikut:
