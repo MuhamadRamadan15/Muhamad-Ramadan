@@ -4,6 +4,7 @@ collaborative filtering
 Dalam repo ini, terdapat algoritma sebagai berikut:
 
 **1. Rekomendasi berdasarkan konten (Content based)**
+
 **2. Rekomendasi berdasarkan user (Collaborative filtering). 
 **3. Rekomendasi Hybrid (berdasarkan user & konten)
 **4. Asosiasi menggunakan algoritma Apriori
