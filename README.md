@@ -15,6 +15,7 @@ Dalam repo ini, terdapat algoritma sebagai berikut:
 
 
 Menjalankan program diatas menggunakan file "main.py", commandnya seperti dibawah,
+
 ![gambar1](image/command.png)
 
 Dari command tersebut, menghasilkan keluaran seperti pada berikut, Keluaran program
