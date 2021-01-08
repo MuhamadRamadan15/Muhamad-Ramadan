@@ -37,6 +37,12 @@ Collaborative filtering dapat menghasilkan banyak data, kita bisa mendapatkan us
 
 # 3. Rekomendasi Hybrid (berdasarkan user & konten)
 
+Pada algoritma ini, digunakan 2 kali pembelajaran. Langkah pertama dilakukan analisa terhadap usernya, bagaimana pemberian rating terhadap filmnya. Setelah itu baru dilakukan pengecekan kesamaan dengan konten, sehingga bisa dihasilkan rekomendasi yang lebih wide dan cocok kepada user tersebut. Hasilnya sebagai berikut
+
 # 4. Asosiasi menggunakan algoritma Apriori
 
+Apriori didapatkan dari perhitungan yang menghasilkan angka support dan confidence tertentu. Angka yang dihasilkan menentukan asosiasi antar kedua atau lebih barang yang ditampilkan. Pada penggunaan kali ini, digunakan min_support dan min_confidence sebagai berikut
+
 # 5. A/B Testing untuk menentukan UI yang lebih baik
+
+Pada penggunaan kali ini, kasus yang ada adalah bagaimana mengukur apakah UI yang baru bisa menggantikan UI yang lama berdasarkan banyaknya user yang me-klik tombol sehingga melanjutkan untuk mengeksplor lebih dalam lagi websitenya lalu dihitung P-Value-nya. Hipotesisnya adalah:
