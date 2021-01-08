@@ -52,3 +52,5 @@ Pada penggunaan kali ini, kasus yang ada adalah bagaimana mengukur apakah UI yan
 _H0 : Pengguna UI A lebih banyak me-klik tombol dibanding pengguna UI B_
 
 _H1 : Pengguna UI A tidak lebih banyak me-klik tombol dibanding pengguna UI B_
+
+Lalu hasil yang didapatkan seperti berikut
